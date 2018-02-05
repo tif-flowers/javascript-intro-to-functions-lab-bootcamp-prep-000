@@ -18,3 +18,6 @@ function sayHiToGrandma(string) {
  return string.toUpperCase() 
 }
 
+function logsayHiToGrandma(string) {
+  console.log ('hello') 
+}
