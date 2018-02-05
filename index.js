@@ -18,4 +18,3 @@ function sayHiToGrandma(string) {
   console.log ('hello') 
 }
 
-var uppercase = "HELLO!"
