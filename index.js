@@ -19,5 +19,5 @@ function sayHiToGrandma(string) {
 }
 
 function logsayHiToGrandma(string) {
-  return ('I can\'t hear you!')
+  return ('hello')
 }
